@@ -1,0 +1,77 @@
+body {
+    background-color: #0D1117;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.toplink {
+    color:rgb(206, 230, 248);
+    cursor: pointer;
+    padding-left: 15px;
+}
+.butond{
+    background-color: #0078d4;
+    color: rgb(228, 234, 239);
+    cursor:pointer;
+    border-style: inherit;
+    border-top: 1px;
+    border-bottom: 1px;
+    border-left: 1px;
+    border-right: 1px;
+    border-width: 2px;
+    border-radius: 4px;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: medium;
+    padding-right: 20px;
+}
+.buttong{
+    background-color: #25292E;
+    color:#c3d0e5;
+    cursor:pointer;
+    border-style: inherit;
+    border-top: 1px;
+    border-bottom: 1px;
+    border-left: 1px;
+    border-right: 1px;
+    border-width: 2px;
+    border-radius: 4px;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: medium;
+}
+.buttond{
+    background-color: #0078d4;
+    color: rgb(228, 234, 239);
+    cursor:pointer;
+    border-style: inherit;
+    border-top: 1px;
+    border-bottom: 1px;
+    border-left: 1px;
+    border-right: 1px;
+    border-width: 2px;
+    border-radius: 4px;
+    padding: 4px 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: medium;
+    padding-right: 20px;
+}
+.search{
+    background-color: transparent;
+    color: #9ba3b4;
+    border: 1px;
+    border-color: rgba(255,255,255,0.15);
+    border-style: inherit;
+    border-top: 1px;
+    border-bottom: 1px;
+    border-left: 1px;
+    border-right: 1px;
+    border-width: 200px;
+    border-radius: 4px;
+    padding: 5px 12px 5px 36px;
+    padding-right: 5px;
+    text-align: center;
+    display: inline-block;
+    font-size: medium;
+}
